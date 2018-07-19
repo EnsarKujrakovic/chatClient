@@ -1,0 +1,54 @@
+body{
+	font-family: sans-serif;
+}
+#loginform {
+	width: 60%;
+	margin: 20% auto auto 10%;
+}
+.tbox{
+	height: 32px;
+}
+.button{
+	height: 34px;
+}
+#main{
+	width:90%;
+	height:90%;
+	margin: 5% auto auto auto;
+}
+#history{
+	color: gray;
+	padding-left: 15px;
+	padding-top: 15px;
+	height:600px;
+	background-color: #eeffee;
+	box-sizing: border-box;
+	overflow-y: auto;
+	word-wrap: break-word;
+}
+#message{
+}
+#chanduname{
+	width:20%;
+	height:600px;
+	background-color: #aabbaa;
+	float: left;
+}
+#channels{
+	height:580px;
+}
+#handm{
+	width:80%;
+	height:600px;
+	display: inline-block;
+	float: right;
+}
+#mtbox{
+	width:50%;
+}
+#username{
+	float: right;
+	font-size: 25px;
+	color: green;
+	word-wrap: break-word;
+}
